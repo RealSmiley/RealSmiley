@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RealSmiley
+- 👋 Hi, I’m Nikita Medynskiy
 - 👀 I’m interested in Software Development and Programming
 - 🌱 I’m currently learning Python, JS, HTML, CSS
 - 💞️ I’m looking to collaborate on projects
